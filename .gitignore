@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# production builds (if used)
+dist/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# env files (keep templates like .env.example if you have one)
+.env
+.env.*.local
+.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# tooling caches
+.turbo/
+.swc/
+coverage/
+
+# local assistant settings (optional)
+.claude/settings.local.json
