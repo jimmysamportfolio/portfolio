@@ -33,3 +33,6 @@ coverage/
 
 # local assistant settings (optional)
 .claude/settings.local.json
+
+# MCP server state
+.playwright-mcp/
